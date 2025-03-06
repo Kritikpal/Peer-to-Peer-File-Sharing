@@ -18,8 +18,8 @@ This is a React-based Peer-to-Peer (P2P) file-sharing application that utilizes 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/Kritikpal/Peer-to-Peer-File-Sharing.git
+   cd Peer-to-Peer-File-Sharing
    ```
 2. Install dependencies:
    ```sh
